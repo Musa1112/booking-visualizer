@@ -7,7 +7,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>Abuja Hotels Avalable for our Booking</h1>
+                <h1>Abuja Hotels Avalable for your Booking</h1>
             </header>
             <main>
                 <ProductList />
